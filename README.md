@@ -1,4 +1,4 @@
 # Talking Plants System API
 
 ## Documentation:
-https://www.gitbook.com/book/talkingplants/talking-plants-system-api-documentation
+https://talkingplants.gitbooks.io/talking-plants-system-api-documentation/content/
